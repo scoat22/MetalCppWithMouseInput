@@ -1,6 +1,6 @@
 ![Preview Image](/Documentation/Image.png)
 
-# Metal++ & Mouse Input
+# Metal C++ & Mouse Input
 MetalCpp sample project, with mouse input directly from Mac operating system (Objective-C & Cocoa). No 3rd party libraries.
 
 ## How it works.
